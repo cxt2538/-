@@ -36,6 +36,7 @@ z = random.randint(1,6)
 print("请%s侧，第%d排,第%d列的同学回答问题。"%(s,y,z))
 ```
 
+`print（Hello World!)`
 表格：
 
 | 你好 | 你好     | 你好 |
